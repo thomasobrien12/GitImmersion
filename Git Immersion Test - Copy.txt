@@ -1,5 +1,4 @@
-﻿hello world
-Created By AccessData® FTK® Imager 3.1.5.0 
+﻿Created By AccessData® FTK® Imager 3.1.5.0 
 
 Case Information: 
 Acquired using: ADI3.1.5.0
