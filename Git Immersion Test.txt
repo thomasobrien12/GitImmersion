@@ -1,0 +1,51 @@
+﻿Created By AccessData® FTK® Imager 3.1.5.0 
+
+Case Information: 
+Acquired using: ADI3.1.5.0
+Case Number: PortableBrowserExample
+Evidence Number: Item A
+Unique description: Jetflash Transcend 4GB
+Examiner: Digital Examiner Rett Harring
+Notes: Wiebetech write blocker
+
+--------------------------------------------------------------
+
+Information for C:\Users\vggrose\Desktop\PortableBrowser:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 489
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 7,864,320
+[Physical Drive Information]
+ Drive Model: JetFlash Transcend 4GB USB Device
+ Drive Serial Number: 0
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 3840 MB
+ Sector count:    7864320
+[Computed Hashes]
+ MD5 checksum:    21995ed1ce24c5bcba21f979cd26da32
+ SHA1 checksum:   dfb241687da6898657fd7f18adf113a9e2faf68b
+
+Image Information:
+ Acquisition started:   Tue Aug 30 17:36:41 2016
+ Acquisition finished:  Tue Aug 30 17:47:11 2016
+ Segment list:
+  C:\Users\vggrose\Desktop\PortableBrowser.E01
+
+Image Verification Results:
+ Verification started:  Tue Aug 30 17:47:11 2016
+ Verification finished: Tue Aug 30 17:47:24 2016
+ MD5 checksum:    21995ed1ce24c5bcba21f979cd26da32 : verified
+ SHA1 checksum:   dfb241687da6898657fd7f18adf113a9e2faf68b : verified
+
+Image Verification Results:
+ Verification started:  Tue Oct 20 23:45:59 2020
+ Verification finished: Tue Oct 20 23:46:17 2020
+ MD5 checksum:    21995ed1ce24c5bcba21f979cd26da32 : verified
+ SHA1 checksum:   dfb241687da6898657fd7f18adf113a9e2faf68b : verified
